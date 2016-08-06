@@ -4,7 +4,6 @@
  * Kirby Datepicker
  * v1.0.0
  * Issues: https://github.com/Andi-Lo/kirby-datepicker/issues
- * Custom Kirby Field Boilerplate by Jenstornell https://github.com/jenstornell/kirby-boiler-field
  * 
 */
 

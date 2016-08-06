@@ -1,5 +1,8 @@
 /*
  * Kirby Datepicker
+ * v1.0.0
+ * Issues: https://github.com/Andi-Lo/kirby-datepicker/issues
+ * 
 */
 
 (function($) {
