@@ -79,8 +79,8 @@ Add Datepicker as a field to one of your blueprints like this:
 | K  | AM/PM | AM or PM |
 
 ## Credits
-    * [Flatpickr](https://github.com/chmln/flatpickr)
-    * [Kirby Custom Field Boilerplate](https://github.com/jenstornell/kirby-boiler-field)
+[Flatpickr](https://github.com/chmln/flatpickr)
+[Kirby Custom Field Boilerplate](https://github.com/jenstornell/kirby-boiler-field)
 
 ## License
 ![https://creativecommons.org/licenses/by-sa/4.0/](https://licensebuttons.net/l/by-sa/3.0/88x31.png "CC BY-SA")  
