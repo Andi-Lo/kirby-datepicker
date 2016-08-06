@@ -26,6 +26,9 @@ Add Datepicker as a field to one of your blueprints like this:
 
 ### 2. Config 
 
+Configs can be set by passing them into the kirby config file e.g: 
+`c::set('dp_dateFormat', 'd-m-Y');`
+
 #### Options
 
 | **Option** | **Default** | **Description** |
