@@ -12,7 +12,7 @@ Use `git clone https://github.com/Andi-Lo/kirby-datepicker.git` from the root of
 
 ## Usage
 
-#### 1. Blueprint
+### 1. Blueprint
 
 Add Datepicker as a field to one of your blueprints like this:
 
@@ -27,9 +27,9 @@ Add Datepicker as a field to one of your blueprints like this:
 
 ```
 
-#### 2. Config 
+### 2. Config 
 
-##### Options
+#### Options
 
 | **Option** | **Default** | **Description** |
 | -------- | -------- | -------- |
@@ -49,7 +49,7 @@ Add Datepicker as a field to one of your blueprints like this:
 | dp_weekNumbers | false | Enables display of week numbers in calendar. |
 | dp_time_24hr |  false | Displays time picker in 24 hour mode without AM/PM selection when enabled. |
 
-##### Date Format Characters
+#### Date Format Characters
 
 | **Character** | **Description** | **Example** |
 | -------- | -------- | -------- |
@@ -67,7 +67,7 @@ Add Datepicker as a field to one of your blueprints like this:
 | y | A two digit representation of a year | 99 or 03 |
 | Y | A full numeric representation of a year, 4 digits | 1999 or 2003 |
 
-##### Time Format Characters
+#### Time Format Characters
 
 | **Character** | **Description** | **Example** |
 | -------- | -------- | -------- |
@@ -79,6 +79,8 @@ Add Datepicker as a field to one of your blueprints like this:
 | K  | AM/PM | AM or PM |
 
 ## Credits
+    * [Flatpickr](https://github.com/chmln/flatpickr)
+    * [Kirby Custom Field Boilerplate](https://github.com/jenstornell/kirby-boiler-field)
 
 ## License
 ![https://creativecommons.org/licenses/by-sa/4.0/](https://licensebuttons.net/l/by-sa/3.0/88x31.png "CC BY-SA")  
