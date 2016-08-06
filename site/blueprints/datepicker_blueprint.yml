@@ -1,0 +1,8 @@
+title: Datepicker
+pages: false
+fields:
+
+  datepicker:
+    label: Datepicker
+    type: datepicker
+    width: 1/3
