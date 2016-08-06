@@ -4,6 +4,8 @@
 
 ---------------------------------------
 EXAMPLE DATEPICKER CONFIG
+
+DOCUMENTATION: https://github.com/Andi-Lo/kirby-datepicker#options
 ---------------------------------------
 
 */
@@ -13,7 +15,7 @@ EXAMPLE DATEPICKER CONFIG
  * European Format: 'd-m-Y'
  * American Format: 'm/d/Y'
  * Fancy Format: 		'l,F j,Y' e.g.: Friday, August 12, 2016
- * See list of all available date formats: https://chmln.github.io/flatpickr/#dateformat
+ * See list of all available date formats: https://github.com/Andi-Lo/kirby-datepicker#date-format-characters
 */
 c::set('dp_dateFormat', 'd-m-Y');
 
@@ -22,12 +24,12 @@ c::set('dp_dateFormat', 'd-m-Y');
  * to your "assets/css/datepicker" 
 */
 
-// c::set("panel.stylesheet", "assets/css/datepicker/yourThemeFile.css");
+c::set("panel.stylesheet", "assets/css/datepicker/yourThemeFile.css");
 
 /*
  * Example default: Settings
  * Feel free to delete unused 
- * For better understanding see: https://chmln.github.io/flatpickr/#options
+ * Full documentation of options: https://github.com/Andi-Lo/kirby-datepicker#options
 */
 c::set('dp_enableTime', true);
 c::set('dp_noCalendar', true);
@@ -48,5 +50,3 @@ c::set('dp_minDate', null);
 c::set('dp_shorthandCurrentMonth', false);
 c::set('dp_weekNumbers', false);
 c::set('dp_time_24hr',  false);
-
-
