@@ -7,9 +7,6 @@ The Kirby-Datepicker provides a datepicker field for the [Kirby-CMS](https://get
 1. **Download and Unzip**
 Download this repository and unzip it into the root of your project.
 
-2. **Via git**
-Use `git clone https://github.com/Andi-Lo/kirby-datepicker.git` from the root of your kirby isntall.
-
 ## Usage
 
 ### 1. Blueprint
