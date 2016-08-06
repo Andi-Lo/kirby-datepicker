@@ -32,17 +32,18 @@ class DatepickerField extends BaseField {
 			"dp_time_24hr" =>  false,
 		);
 
-	/* Load assets */
+	// Load assets
 		static public $assets = array(
 			'js' => array(
 				'datepicker.js',
-				'style.js'
+				'flatpickr.min.js'
 			),
 			'css' => array(
-				'flatpickr.min.css',
-				'datepicker.css'
+				'datepicker.css',
+				'style.css'
 			)
 		);
+
 
 
 	function __construct() {
